@@ -1,0 +1,7 @@
+body {
+    background-image: url('ecosveg2.svg'), linear-gradient(to bottom, #00FF00, #B8F287); 
+    background-repeat: repeat, no-repeat;
+    background-size: auto, cover;
+    min-height: 700vh;
+    margin: 0;
+}
